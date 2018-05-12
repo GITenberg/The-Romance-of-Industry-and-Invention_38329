@@ -1,0 +1,29 @@
+_repo: The-Romance-of-Industry-and-Invention_38329
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38329-h/images/i_back_cover.jpg
+creator:
+  editor:
+    agent_name: Cochrane, Robert
+    gutenberg_agent_id: '39399'
+    url: http://www.gutenberg.org/2009/agents/39399
+description: ''
+gutenberg_issued: '2011-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38329'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Industrial arts'
+- !lcsh 'Inventions'
+- !lcc 'T'
+tableOfContents: Iron and steel -- Pottery and porcelain -- The sewing machine --
+  Wool and cotton -- Gold and diamonds -- Big guns, small-arms, and ammunition --
+  The evolution of the cycle -- Steamers and sailing-ships -- Post-office; telegraph;
+  telephone; phonograph.
+title: The Romance of Industry and Invention
+url: http://www.gutenberg.org/ebooks/38329
